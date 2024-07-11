@@ -1,5 +1,4 @@
-package firstproject;
-
+/*21. В заданном тексте найти сумму всех встречающихся цифр*/
 
 public class main {
     public static void main(String[] args) {
